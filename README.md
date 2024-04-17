@@ -70,7 +70,8 @@ BallonShooting representa um emocionante mergulho no mundo da realidade aumentad
 
 ## Limitações  ❌
 
-- Por limitação de tamanho de arquivo a codificação comepleta está disponivel em zip no [LINK](https://drive.google.com/file/d/1QcUgpaFzmOAh7ZtK1tGx-CMqT9XiZqr3/view?usp=drive_link).🗃️
+- Por limitação de tamanho de arquivo a codificação comepleta está disponivel em zip no [LINK] (https://drive.google.com/file/d/1QcUgpaFzmOAh7ZtK1tGx-CMqT9XiZqr3/view?usp=drive_link). 🗃️
+  
 - A codificação não oferece nenhuma opção para desistir do jogo durante sua execução. 😬
   
 <br/>
