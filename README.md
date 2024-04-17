@@ -58,6 +58,16 @@ BallonShooting representa um emocionante mergulho no mundo da realidade aumentad
    
 <br/>
 
+## Como Jogar 💾
+
+- Clique no botão "Começar". ▶️
+  
+- Ao começar espere uns segundos até os balões começarem a aparecer e leve a mira ate um dos balões. 🎯
+  
+- Para explodir, clique nos balões enquanto mira neles. 🔥
+
+<br/>
+
 ## Limitações  ❌
 
 - Por limitação de tamanho de arquivo a codificação comepleta está disponivel em zip no [LINK](https://drive.google.com/file/d/1QcUgpaFzmOAh7ZtK1tGx-CMqT9XiZqr3/view?usp=drive_link).🗃️
