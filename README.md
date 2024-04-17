@@ -12,7 +12,7 @@ BallonShooting representa um emocionante mergulho no mundo da realidade aumentad
 
 
 <img align="center" alt="Unity" src=	"https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
-<img align="center" alt="c++" src=	"https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img align="center" alt="c++" src=	"https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img align="center" alt="itch" src= "https://img.shields.io/badge/Itch.io-FA5C5C.svg?style=for-the-badge&logo=itchdotio&logoColor=white"/>
 
 <br/>
@@ -56,9 +56,19 @@ BallonShooting representa um emocionante mergulho no mundo da realidade aumentad
 
    <img src="https://github.com/LuiisMarim/BallonGame/blob/main/imgs/exe.jpeg" alt="itch" align="center" width="200" height ="350"/>
    
-   
-   
+<br/>
 
- 
+## Limitações  ❌
+
+- Por limitação de tamanho de arquivo a codificação comepleta está disponivel em zip no LINK.
+
+- A codificação não oferece nenhuma opção para desistir do jogo durante sua execução. 😬
+  
+<br/>
+
+## Autor ✒️  
+
+DevLuisMarim ⬇️ <div style="display:
+ inline-block">[![E-mail](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/LuiisMarim)
     
 
